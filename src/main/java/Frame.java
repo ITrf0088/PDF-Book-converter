@@ -183,6 +183,7 @@ public class Frame extends JFrame implements ActionListener {
 
 
     public static void main(String[] args) {
+
         new Frame("Ворид намудани сахифаҳои китоб, ба база.");
     }
 }
