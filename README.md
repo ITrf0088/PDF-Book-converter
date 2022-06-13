@@ -3,8 +3,8 @@ This desktop application allows to user convert a pdf-file to sqlite database wi
 The main table of the database is kitob_sahifa
 The requirements for the correct work of the app are as follows:
   - The book needs to have chapters
-  - You need to have a copy of the database(it's in the project folder) with  certain tables created but without filling them
+  - You need to have a copy of the database with  certain tables created(it's in the project folder) but without filling them
   - The Language is Tajik 
   
-The app is not stable!
+The app is not stable! and was written for task solving
  
