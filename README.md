@@ -1,5 +1,5 @@
 # PDF-Book-converter
-This desktop application allows to user convert a pdf-file to sqlite database with automatically separating chapters of the book and correcting  lines in order to the texts to be suitable for TextView(android)
+This desktop application allows the user convert a pdf-file to sqlite database with automatically separating chapters of the book and correcting  lines in order to the texts to be suitable for TextView(android)
 The main table of the database is kitob_sahifa
 The requirements for the correct work of the app are as follows:
   - The book needs to have chapters
